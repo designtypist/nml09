@@ -1,0 +1,118 @@
+Eman 20-25 king size plateware
+Cheese, Cheese + Pepp, Deluxe
+
+Capri
+Naples
+Koolinis
+Franco’s
+Rose’s
+Pizza King
+
+
+Pre-Lan 2014 Page
+This page will contain all info and concepts to do with the Pre-Lan page for the upcoming march LAN. We estimate to release this page ASAP , the latest mid February. 
+
+TODO:
+Reserve 3 tvs from library
+Finalize layout (where do magic players go? / console?)
+
+
+Must Have:
+Sponsors(logos): CPU, CG Realm (Magic), PC Outfitters, 
+n
+
+
+
+
+
+
+
+Social media for ITC Club: https://www.facebook.com/Stclairitc, 
+Youtube Channel: https://www.youtube.com/user/StClairITC
+Contact information for ITC Club: commofficer@stclairitc.ca 
+
+Video Games being played (divide into sections): 
+     League of Legends, Dota 2, Starcraft 2, Minecraft, CS:GO, Super Smash Bros.
+Other games/event being hosted: Magic: the Gathering
+Servers being hosted: Minecraft, Killing Floor
+
+Server Info:
+Server
+IP/Box
+Status
+Details
+Minecraft - Build
+
+
+TBA
+
+
+Killing Floor
+
+
+TBA
+
+
+
+ Times of each tournament: (To be discussed)
+Tournaments:
+League of Legends - ELO(SEEDED) 5v5 (DE best of 1 until semi finals best of 3)
+Dota 2 - Draft 5v5 (DE best of 1 until semi finals best of 3)
+Starcraft 2 - Double Elimination (best of 1 until quarter finals then best of 3)
+Minecraft  - Building Tournament
+Magic the Gathering - To be discussed
+CS:GO (5v5 Scrim) (best of 5 -  Rules) 
+Hearthstone (probably not this year, mini tourn yes!)
+
+TOURN REG PER TOURN BEFORE TOURN
+R
+Tournament - Leader
+Start
+End
+3
+Starcraft 2 - Nick Sylvestre
+Friday 22:00
+Saturday 3:00
+2
+Dota 2 - Eman
+Saturday 9:00 (no start early)
+Saturday 16:00
+1
+League of Legends - Nico Verrelli
+Saturday 16:00
+Sunday 2:00
+4
+CS:GO - Derek Richard
+Saturday 23:00
+whenever
+-
+Minecraft - Maran 
+Saturday 00:00
+Sunday 00:00
+* We will try our best to start the tournaments as scheduled, however, times may be subject to change
+
+Start - Friday 7PM
+End - Sunday at 8am
+
+Question Section (Be expandable - Hidden Answers, Frequently asked questions):
+What will be supplied and available on the day of the event? (Cables, Powerbars)
+What is a LAN Party?
+How to get prepared for the No Man’s Lan?
+What to bring during No Man’s Lan?
+Link to finding team members (“What if i don’t have a team?”, “What if i’m short a member?”): 
+Information on food (Will food be available?, )
+Floor Map of St Clair College/Location of St Clair College (Maybe on Question Section)
+
+
+Extras
+Console Gaming: 2 Tv’s (from EG)
+Prizes: 
+Slogan
+Link to past events hosted by ITC Club
+How to get games off the server?
+
+Page Concepts:
+Free-Flow parallax, top section containing core info of the event and sponsors surrounding the main title “No Man’s Lan 2014”, as the user scrolls the page the content will adjust and will display the tournament times justly, displaying each tournament to its corresponding times as the user scrolls. A menu (Working idea) will float mid-left of the page containing quick links to all the tournament sections and info sections and will highlight the section you're currently in.  Bottom of the page will consist of a Q&A section containing frequently asked questions with their corresponding answers 
+
+Goal of Site
+To bring awareness of No Man's LAN, offer them enough information to be prepared and be well informed of the event so everyone will have a great and fun time

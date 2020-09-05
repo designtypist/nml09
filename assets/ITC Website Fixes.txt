@@ -1,0 +1,17 @@
+ITC Website Fix
+High Priority
+- Event Information section (Layout/design is confusing)
+- Sponsors (not finished)
+- Huge space between Q&A and Tournament section
+- Games button functionality (goes directly to the tournament section which causes users to scroll back up)
+- Games button functionality is not noticeably (need to differentiate it when you hover over it)
+
+Medium Priority
+- Contact Us does not exist
+- Follow Us does not exist 
+- Games/Events/Server menu header too small and unnoticeable
+
+Low Priority 
+- Tournament background - improve computer glass effect
+- Making scrolling through the page more interesting (ie. fade effects)
+- Shrink nav menu
