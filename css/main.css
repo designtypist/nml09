@@ -95,7 +95,7 @@ div.floating-menu img{
 	width:100%;
 	min-height:3600px;
 	height:100%;
-	background:url("../texture-good.png") repeat-y 0 0;
+	background:url("../images/texture-good.png") repeat-y 0 0;
 	background-attachment:fixed;
 	background-size:100%;
 	position:fixed;
@@ -205,23 +205,23 @@ font-size: 20px;
 color: #000;
 outline: none;
 
-/*background-image: url("../iron_texture78.jpg");*/
+/*background-image: url("../images/iron_texture78.jpg");*/
 }
 
   
 ul.tabs li a:hover {
 background: #aaa;
-/*background-image: url("../iron_texture78.jpg");*/
+/*background-image: url("../images/iron_texture78.jpg");*/
 }
   
 ul.tabs li.active {
 border-bottom:1px solid #fff;
-/*background-image: url("../iron_texture78.jpg");*/
+/*background-image: url("../images/iron_texture78.jpg");*/
 }
 
 ul.tabs li.active a, ul.tabs li.active a:hover  { 
 background: #fff;
-/*background-image: url("../iron_texture78.jpg");*/
+/*background-image: url("../images/iron_texture78.jpg");*/
 }
   
 div.tabContainer {
